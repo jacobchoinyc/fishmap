@@ -1,0 +1,154 @@
+html, body, div, span, object, iframe, p, blockquote, pre, a, em, img, strong, sub, sup, tt, var, center, dl, dt, dd, ol, ul, li, fieldset, form, label, table, caption, tbody, tfoot, thead, tr, th, td, embed, audio, video, input, text, tspan, svg, textarea {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+html, body {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	color: #333;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Roboto Mono', monospace;
+}
+
+a {
+	color: rgb(0,100,200);
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
+	color: rgb(0,80,160);
+}
+
+label {
+	display: block;
+}
+
+input, button, select, textarea {
+	font-family: inherit;
+	font-size: inherit;
+	-webkit-padding: 0.4em 0;
+	padding: 0.4em;
+	margin: 0 0 0.5em 0;
+	box-sizing: border-box;
+	border: 1px solid #ccc;
+	border-radius: 2px;
+}
+
+input:disabled {
+	color: #ccc;
+}
+
+button {
+	color: #333;
+	background-color: #f4f4f4;
+	outline: none;
+}
+
+button:disabled {
+	color: #999;
+}
+
+button:not(:disabled):active {
+	background-color: #ddd;
+}
+
+button:focus {
+	border-color: #666;
+}
+
+
+.cont {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	gap: 25px;
+}
+.cont > .header, .cont > .amenitiesCont, .cont > .feesCont {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	gap: 7px;
+}
+.cont > .header > #city {
+	font-size: 12px;
+	line-height: 24px;
+	color: #999999;
+	text-transform: uppercase;
+}
+.cont > .header > .titleCont, .cont > .header > .titleCont > a, .cont > .amenitiesCont > #amenities {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	gap: 10px;
+}
+.cont > .amenitiesCont > #amenities {
+	flex-flow: wrap;
+}
+.cont > .amenitiesCont > #amenities > div {
+	display: block;
+	height: 24px;
+	line-height: 24px;
+	padding-left: 29px;
+	background-position: left;
+	background-repeat: no-repeat;
+	background-size: 24px 24px;
+}
+#restrooms {
+	background-image: url("/img/restrooms.png");
+}
+#playground {
+	background-image: url("/img/playground.png");
+}
+#picnic-area {
+	background-image: url("/img/picnic-area.png");
+}
+#nature-trails {
+	background-image: url("/img/nature-trails.png");
+}
+#walking-paths {
+	background-image: url("/img/walking-paths.png");
+}
+#website {
+	width: fit-content;
+	padding-right: 17px;
+	background-position: right 4px;
+	background-repeat: no-repeat;
+	background-size: 14px 14px;
+	background-image: url("/img/website.jpg");
+}
+#name {
+	font-size: 18px;
+	line-height: 24px;
+	font-weight: 600;
+}
+.cont > .header > .titleCont > a {
+	font-size: 14px;
+	line-height: 24px;
+	margin-top: 2px;
+}
+.title {
+	font-size: 14px;
+	line-height: 18px;
+	font-weight: 600;
+}
+.body, #address {
+	font-size: 14px;
+	line-height: 18px;
+}
+.cont > .amenitiesCont > #amenities > div.none {
+	display: none;
+}
+.leaflet-container a.leaflet-popup-close-button {
+	margin: 5px;
+}

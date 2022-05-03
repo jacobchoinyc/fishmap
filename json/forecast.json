@@ -1,0 +1,2194 @@
+[
+  {
+    "species": "bluefish",
+    "dataset": [
+      {
+        "month": "jan",
+        "data": [
+              {"label": "Manhattan", "value": 1},
+              {"label": "Jamaica Bay(BK)", "value": 1},
+              {"label": "Freeport(LI)", "value": 1},
+              {"label": "Montauk", "value": 2},
+              {"label": "Jersey City", "value": 1},
+              {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "feb",
+        "data": [
+              {"label": "Manhattan", "value": 1},
+              {"label": "Jamaica Bay(BK)", "value": 1},
+              {"label": "Freeport(LI)", "value": 1},
+              {"label": "Montauk", "value": 2},
+              {"label": "Jersey City", "value": 2},
+              {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "mar",
+        "data": [
+              {"label": "Manhattan", "value": 1},
+              {"label": "Jamaica Bay(BK)", "value": 2},
+              {"label": "Freeport(LI)", "value": 1},
+              {"label": "Montauk", "value": 2},
+              {"label": "Jersey City", "value": 2},
+              {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "apr",
+        "data": [
+              {"label": "Manhattan", "value": 1},
+              {"label": "Jamaica Bay(BK)", "value": 2},
+              {"label": "Freeport(LI)", "value": 1},
+              {"label": "Montauk", "value": 2},
+              {"label": "Jersey City", "value": 3},
+              {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "may",
+        "data": [
+              {"label": "Manhattan", "value": 2},
+              {"label": "Jamaica Bay(BK)", "value": 3},
+              {"label": "Freeport(LI)", "value": 2},
+              {"label": "Montauk", "value": 3},
+              {"label": "Jersey City", "value": 3},
+              {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "jun",
+        "data": [
+              {"label": "Manhattan", "value": 3},
+              {"label": "Jamaica Bay(BK)", "value": 3},
+              {"label": "Freeport(LI)", "value": 3},
+              {"label": "Montauk", "value": 3},
+              {"label": "Jersey City", "value": 4},
+              {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "jul",
+        "data": [
+              {"label": "Manhattan", "value": 4},
+              {"label": "Jamaica Bay(BK)", "value": 4},
+              {"label": "Freeport(LI)", "value": 4},
+              {"label": "Montauk", "value": 4},
+              {"label": "Jersey City", "value": 3},
+              {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "aug",
+        "data": [
+              {"label": "Manhattan", "value": 4},
+              {"label": "Jamaica Bay(BK)", "value": 4},
+              {"label": "Freeport(LI)", "value": 4},
+              {"label": "Montauk", "value": 4},
+              {"label": "Jersey City", "value": 2},
+              {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "sep",
+        "data": [
+              {"label": "Manhattan", "value": 4},
+              {"label": "Jamaica Bay(BK)", "value": 4},
+              {"label": "Freeport(LI)", "value": 4},
+              {"label": "Montauk", "value": 4},
+              {"label": "Jersey City", "value": 2},
+              {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "oct",
+        "data": [
+              {"label": "Manhattan", "value": 4},
+              {"label": "Jamaica Bay(BK)", "value": 4},
+              {"label": "Freeport(LI)", "value": 4},
+              {"label": "Montauk", "value": 4},
+              {"label": "Jersey City", "value": 3},
+              {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "nov",
+        "data": [
+              {"label": "Manhattan", "value": 3},
+              {"label": "Jamaica Bay(BK)", "value": 4},
+              {"label": "Freeport(LI)", "value": 3},
+              {"label": "Montauk", "value": 4},
+              {"label": "Jersey City", "value": 2},
+              {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "dec",
+        "data": [
+              {"label": "Manhattan", "value": 2},
+              {"label": "Jamaica Bay(BK)", "value": 2},
+              {"label": "Freeport(LI)", "value": 2},
+              {"label": "Montauk", "value": 2},
+              {"label": "Jersey City", "value": 2},
+              {"label": "Jersey Shore", "value": 2}
+        ]
+      }
+    ]
+  },
+  {
+    "species": "carp",
+    "dataset": [
+      {
+        "month": "jan",
+        "data": [
+              {"label": "Manhattan", "value": 3},
+              {"label": "Jamaica Bay(BK)", "value": 0},
+              {"label": "Freeport(LI)", "value": 3},
+              {"label": "Montauk", "value": 0},
+              {"label": "Jersey City", "value": 0},
+              {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "feb",
+        "data": [
+              {"label": "Manhattan", "value": 3},
+              {"label": "Jamaica Bay(BK)", "value": 0},
+              {"label": "Freeport(LI)", "value": 3},
+              {"label": "Montauk", "value": 0},
+              {"label": "Jersey City", "value": 0},
+              {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "mar",
+        "data": [
+              {"label": "Manhattan", "value": 3},
+              {"label": "Jamaica Bay(BK)", "value": 0},
+              {"label": "Freeport(LI)", "value": 3},
+              {"label": "Montauk", "value": 0},
+              {"label": "Jersey City", "value": 0},
+              {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "apr",
+        "data": [
+              {"label": "Manhattan", "value": 3},
+              {"label": "Jamaica Bay(BK)", "value": 0},
+              {"label": "Freeport(LI)", "value": 3},
+              {"label": "Montauk", "value": 0},
+              {"label": "Jersey City", "value": 0},
+              {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "may",
+        "data": [
+              {"label": "Manhattan", "value": 3},
+              {"label": "Jamaica Bay(BK)", "value": 0},
+              {"label": "Freeport(LI)", "value": 3},
+              {"label": "Montauk", "value": 0},
+              {"label": "Jersey City", "value": 0},
+              {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "jun",
+        "data": [
+              {"label": "Manhattan", "value": 3},
+              {"label": "Jamaica Bay(BK)", "value": 0},
+              {"label": "Freeport(LI)", "value": 3},
+              {"label": "Montauk", "value": 0},
+              {"label": "Jersey City", "value": 0},
+              {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "jul",
+        "data": [
+              {"label": "Manhattan", "value": 3},
+              {"label": "Jamaica Bay(BK)", "value": 0},
+              {"label": "Freeport(LI)", "value": 3},
+              {"label": "Montauk", "value": 0},
+              {"label": "Jersey City", "value": 0},
+              {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "aug",
+        "data": [
+              {"label": "Manhattan", "value": 3},
+              {"label": "Jamaica Bay(BK)", "value": 0},
+              {"label": "Freeport(LI)", "value": 3},
+              {"label": "Montauk", "value": 0},
+              {"label": "Jersey City", "value": 0},
+              {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "sep",
+        "data": [
+              {"label": "Manhattan", "value": 3},
+              {"label": "Jamaica Bay(BK)", "value": 0},
+              {"label": "Freeport(LI)", "value": 3},
+              {"label": "Montauk", "value": 0},
+              {"label": "Jersey City", "value": 0},
+              {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "oct",
+        "data": [
+              {"label": "Manhattan", "value": 3},
+              {"label": "Jamaica Bay(BK)", "value": 0},
+              {"label": "Freeport(LI)", "value": 3},
+              {"label": "Montauk", "value": 0},
+              {"label": "Jersey City", "value": 0},
+              {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "nov",
+        "data": [
+              {"label": "Manhattan", "value": 3},
+              {"label": "Jamaica Bay(BK)", "value": 0},
+              {"label": "Freeport(LI)", "value": 3},
+              {"label": "Montauk", "value": 0},
+              {"label": "Jersey City", "value": 0},
+              {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "dec",
+        "data": [
+              {"label": "Manhattan", "value": 3},
+              {"label": "Jamaica Bay(BK)", "value": 0},
+              {"label": "Freeport(LI)", "value": 3},
+              {"label": "Montauk", "value": 0},
+              {"label": "Jersey City", "value": 0},
+              {"label": "Jersey Shore", "value": 0}
+        ]
+      }
+    ]
+  },
+  {
+    "species": "cobia",
+    "dataset": [
+      {
+        "month": "jan",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "feb",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "mar",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "apr",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "may",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "jun",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "jul",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "aug",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "sep",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "oct",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "nov",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "dec",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      }
+    ]
+  },
+  {
+    "species": "cod",
+    "dataset": [
+      {
+        "month": "jan",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "feb",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "mar",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "apr",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 3},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "may",
+        "data": [
+          {"label": "Manhattan", "value": 2},
+          {"label": "Jamaica Bay(BK)", "value": 2},
+          {"label": "Freeport(LI)", "value": 2},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "jun",
+        "data": [
+          {"label": "Manhattan", "value": 2},
+          {"label": "Jamaica Bay(BK)", "value": 2},
+          {"label": "Freeport(LI)", "value": 2},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "jul",
+        "data": [
+          {"label": "Manhattan", "value": 2},
+          {"label": "Jamaica Bay(BK)", "value": 2},
+          {"label": "Freeport(LI)", "value": 2},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "aug",
+        "data": [
+          {"label": "Manhattan", "value": 1},
+          {"label": "Jamaica Bay(BK)", "value": 1},
+          {"label": "Freeport(LI)", "value": 1},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "sep",
+        "data": [
+          {"label": "Manhattan", "value": 1},
+          {"label": "Jamaica Bay(BK)", "value": 1},
+          {"label": "Freeport(LI)", "value": 1},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "oct",
+        "data": [
+          {"label": "Manhattan", "value": 1},
+          {"label": "Jamaica Bay(BK)", "value": 1},
+          {"label": "Freeport(LI)", "value": 1},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "nov",
+        "data": [
+          {"label": "Manhattan", "value": 1},
+          {"label": "Jamaica Bay(BK)", "value": 1},
+          {"label": "Freeport(LI)", "value": 1},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "dec",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 3},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      }
+    ]
+  },
+  {
+    "species": "crab",
+    "dataset": [
+      {
+        "month": "jan",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "feb",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "mar",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "apr",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "may",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "jun",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "jul",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "aug",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "sep",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "oct",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "nov",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "dec",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      }
+    ]
+  },
+  {
+    "species": "flounder",
+    "dataset": [
+      {
+        "month": "jan",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 1},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "feb",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 1},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "mar",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "apr",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "may",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "jun",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "jul",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 4},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "aug",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 4},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "sep",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 4},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "oct",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "nov",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "dec",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 2},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      }
+    ]
+  },
+  {
+    "species": "king mackerel",
+    "dataset": [
+      {
+        "month": "jan",
+        "data": [
+          {"label": "Manhattan", "value": 1},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 1},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "feb",
+        "data": [
+          {"label": "Manhattan", "value": 1},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 1},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "mar",
+        "data": [
+          {"label": "Manhattan", "value": 1},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 1},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "apr",
+        "data": [
+          {"label": "Manhattan", "value": 1},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 1},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "may",
+        "data": [
+          {"label": "Manhattan", "value": 1},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 1},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "jun",
+        "data": [
+          {"label": "Manhattan", "value": 2},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 2},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "jul",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "aug",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "sep",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "oct",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "nov",
+        "data": [
+          {"label": "Manhattan", "value": 1},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 1},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "dec",
+        "data": [
+          {"label": "Manhattan", "value": 1},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 1},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      }
+    ]
+  },
+  {
+    "species": "pollock",
+    "dataset": [
+      {
+        "month": "jan",
+        "data": [
+          {"label": "Manhattan", "value": 2},
+          {"label": "Jamaica Bay(BK)", "value": 2},
+          {"label": "Freeport(LI)", "value": 2},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "feb",
+        "data": [
+          {"label": "Manhattan", "value": 2},
+          {"label": "Jamaica Bay(BK)", "value": 2},
+          {"label": "Freeport(LI)", "value": 2},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "mar",
+        "data": [
+          {"label": "Manhattan", "value": 2},
+          {"label": "Jamaica Bay(BK)", "value": 2},
+          {"label": "Freeport(LI)", "value": 2},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "apr",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 3},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "may",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "jun",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 3},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "jul",
+        "data": [
+          {"label": "Manhattan", "value": 2},
+          {"label": "Jamaica Bay(BK)", "value": 2},
+          {"label": "Freeport(LI)", "value": 2},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "aug",
+        "data": [
+          {"label": "Manhattan", "value": 2},
+          {"label": "Jamaica Bay(BK)", "value": 2},
+          {"label": "Freeport(LI)", "value": 2},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "sep",
+        "data": [
+          {"label": "Manhattan", "value": 2},
+          {"label": "Jamaica Bay(BK)", "value": 2},
+          {"label": "Freeport(LI)", "value": 2},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "oct",
+        "data": [
+          {"label": "Manhattan", "value": 2},
+          {"label": "Jamaica Bay(BK)", "value": 2},
+          {"label": "Freeport(LI)", "value": 2},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "nov",
+        "data": [
+          {"label": "Manhattan", "value": 2},
+          {"label": "Jamaica Bay(BK)", "value": 2},
+          {"label": "Freeport(LI)", "value": 2},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "dec",
+        "data": [
+          {"label": "Manhattan", "value": 2},
+          {"label": "Jamaica Bay(BK)", "value": 2},
+          {"label": "Freeport(LI)", "value": 2},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      }
+    ]
+  },
+  {
+    "species": "porgy",
+    "dataset": [
+      {
+        "month": "jan",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "feb",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "mar",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "apr",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "may",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "jun",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "jul",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "aug",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "sep",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "oct",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "nov",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "dec",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      }
+    ]
+  },
+  {
+    "species": "seabass",
+    "dataset": [
+      {
+        "month": "jan",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "feb",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "mar",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "apr",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "may",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 4},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "jun",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 4},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "jul",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 3},
+          {"label": "Jersey City", "value": 4},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "aug",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 3},
+          {"label": "Jersey City", "value": 4},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "sep",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 4},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "oct",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 4},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "nov",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 3},
+          {"label": "Jersey City", "value": 4},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "dec",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 2},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 4},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      }
+    ]
+  },
+  {
+    "species": "sheepshead",
+    "dataset": [
+      {
+        "month": "jan",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "feb",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "mar",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "apr",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "may",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "jun",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "jul",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "aug",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "sep",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "oct",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "nov",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "dec",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      }
+    ]
+  },
+  {
+    "species": "spanish mackerel",
+    "dataset": [
+      {
+        "month": "jan",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "feb",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "mar",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "apr",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "may",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "jun",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "jul",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "aug",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "sep",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "oct",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "nov",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "dec",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      }
+    ]
+  },
+  {
+    "species": "spotted seatrout",
+    "dataset": [
+      {
+        "month": "jan",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "feb",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "mar",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "apr",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "may",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "jun",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "jul",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "aug",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "sep",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "oct",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "nov",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "dec",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      }
+    ]
+  },
+  {
+    "species": "striped bass",
+    "dataset": [
+      {
+        "month": "jan",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "feb",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "mar",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "apr",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "may",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "jun",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 3},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "jul",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 3},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "aug",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 3},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "sep",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "oct",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "nov",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 3},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "dec",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 4},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      }
+    ]
+  },
+  {
+    "species": "tautog",
+    "dataset": [
+      {
+        "month": "jan",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "feb",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "mar",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "apr",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 3},
+          {"label": "Jersey City", "value": 4},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "may",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "jun",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 0},
+          {"label": "Jersey Shore", "value": 0}
+        ]
+      },
+      {
+        "month": "jul",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "aug",
+        "data": [
+          {"label": "Manhattan", "value": 0},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 0},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "sep",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 0},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 0},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "oct",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 3},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "nov",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 4},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "dec",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 2},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      }
+    ]
+  },
+  {
+    "species": "weakfish",
+    "dataset": [
+      {
+        "month": "jan",
+        "data": [
+          {"label": "Manhattan", "value": 1},
+          {"label": "Jamaica Bay(BK)", "value": 1},
+          {"label": "Freeport(LI)", "value": 1},
+          {"label": "Montauk", "value": 1},
+          {"label": "Jersey City", "value": 1},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "feb",
+        "data": [
+          {"label": "Manhattan", "value": 1},
+          {"label": "Jamaica Bay(BK)", "value": 1},
+          {"label": "Freeport(LI)", "value": 1},
+          {"label": "Montauk", "value": 1},
+          {"label": "Jersey City", "value": 1},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "mar",
+        "data": [
+          {"label": "Manhattan", "value": 1},
+          {"label": "Jamaica Bay(BK)", "value": 1},
+          {"label": "Freeport(LI)", "value": 1},
+          {"label": "Montauk", "value": 1},
+          {"label": "Jersey City", "value": 1},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "apr",
+        "data": [
+          {"label": "Manhattan", "value": 1},
+          {"label": "Jamaica Bay(BK)", "value": 1},
+          {"label": "Freeport(LI)", "value": 1},
+          {"label": "Montauk", "value": 1},
+          {"label": "Jersey City", "value": 3},
+          {"label": "Jersey Shore", "value": 3}
+        ]
+      },
+      {
+        "month": "may",
+        "data": [
+          {"label": "Manhattan", "value": 1},
+          {"label": "Jamaica Bay(BK)", "value": 2},
+          {"label": "Freeport(LI)", "value": 1},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 4},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "jun",
+        "data": [
+          {"label": "Manhattan", "value": 2},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 2},
+          {"label": "Montauk", "value": 3},
+          {"label": "Jersey City", "value": 4},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "jul",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 4},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "aug",
+        "data": [
+          {"label": "Manhattan", "value": 4},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 4},
+          {"label": "Montauk", "value": 3},
+          {"label": "Jersey City", "value": 4},
+          {"label": "Jersey Shore", "value": 4}
+        ]
+      },
+      {
+        "month": "sep",
+        "data": [
+          {"label": "Manhattan", "value": 3},
+          {"label": "Jamaica Bay(BK)", "value": 3},
+          {"label": "Freeport(LI)", "value": 3},
+          {"label": "Montauk", "value": 3},
+          {"label": "Jersey City", "value": 2},
+          {"label": "Jersey Shore", "value": 2}
+        ]
+      },
+      {
+        "month": "oct",
+        "data": [
+          {"label": "Manhattan", "value": 1},
+          {"label": "Jamaica Bay(BK)", "value": 4},
+          {"label": "Freeport(LI)", "value": 1},
+          {"label": "Montauk", "value": 4},
+          {"label": "Jersey City", "value": 1},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "nov",
+        "data": [
+          {"label": "Manhattan", "value": 1},
+          {"label": "Jamaica Bay(BK)", "value": 2},
+          {"label": "Freeport(LI)", "value": 1},
+          {"label": "Montauk", "value": 2},
+          {"label": "Jersey City", "value": 1},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      },
+      {
+        "month": "dec",
+        "data": [
+          {"label": "Manhattan", "value": 1},
+          {"label": "Jamaica Bay(BK)", "value": 1},
+          {"label": "Freeport(LI)", "value": 1},
+          {"label": "Montauk", "value": 1},
+          {"label": "Jersey City", "value": 1},
+          {"label": "Jersey Shore", "value": 1}
+        ]
+      }
+    ] 
+  }
+]
